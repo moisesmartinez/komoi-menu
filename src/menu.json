@@ -1,0 +1,51 @@
+{
+    "Lunes": {
+      "PRE DESAYUNO": "1 vaso de agua (16 oz)\nCafe negro o te de su preferencia (opcional)",
+      "DESAYUNO": "Tostadas\n2 rebaadas de pan ,medio aguacate, (Puede colocar aguacate molido sobre el pan y encima el tomate , puede agregar queso feta u otro de preferencia, agregar 1 huevo cada uno ( preparado a su gusto)",
+      "ALMUERZO": "100 g de preferencia con vegetales al horno o salteado. Usar Vegetales de su preferencia (Puede ser cebolla, chile, habichuelas, etc). Puedes acompañarlo con 100g de ensalada de papa (Ver receta)",
+      "SNACK": "Pudding de Chia y fruta\nMezclar una cucharada sopera de semillas de chía (puede sustituir por granola) dentro de un 1/3 de taza de yogur natural o griego. Colocar en la nevera una o dos horas (o por la noche) y tendrás el pudding listo. Aderézalo a tu gusto añadiendo fruta encima. puede utilizar media taza de fresas rebanadas o 1/4 de de tazas de arándano.",
+      "CENA": "100g de pollo, ensalada tipo chimol (tomate picado, cilantro, cebolla, pepino, chine, aguacate) 1 paquete de salma."
+    },
+    "Martes": {
+      "PRE DESAYUNO": "1 vaso de agua (16 oz)\nCafe negro o te de su preferencia (opcional)",
+      "DESAYUNO": "2 rebanadas de pan integral untar con mantequilla de maní o almendra (según su preferencia) chorrito de miel, rebanadas de fresa (Puede elegir otra fruta)acompañar de 2 huevos preparados a su gusto ( 1 clara 1 huevo entero)",
+      "ALMUERZO": "100 de Fajitas de pollo (con cebolla , chile y tomate), acompañar con vegetales cocidos como zanahoria , pataste, habichuelas, (Puede sustituir por ensalada fresca lechuga, pepino y tomate) 1 /2 taza de arroz blanco ya cocido.",
+      "SNACK": "1 banano rebanado con 1 cucharada de miel natural.",
+      "CENA": "3 tacos mexicanos ( de 1 tortilla) con pollo o carne molida 120 gr y chimol al gusto, también puede incluir guacamole."
+    },
+    "Miércoles": {
+      "PRE DESAYUNO": "1 vaso de agua (16 oz)\nCafe negro o te de su preferencia (opcional)",
+      "DESAYUNO": "2 tortillas untar con 1 cucharada de frijoles molidos c/u, 1 rebanada de jamón de pavo (no ahumado) / puede usar el FUD Light. (colocar encima de tortillas con frijoles). y 1 cucharada de queso parmesano (opcional) puede sustituir jamón por 1 huevo c/u.",
+      "ALMUERZO": "100g pollo a la plancha (1/2 taza) champiñones y cebolla picadito (Opcional). Para acompañarlo, 1/2 taza de arroz integral cocido o blanco) y sus vegetales favoritos. puede cambiar arroz por papa.",
+      "SNACK": "1 Fruta de su elección (no cítrica)",
+      "CENA": "120 gr de papa ( ya cocidas colocar un spray o 2 de pam , puede usar una cucharada de oliva o canola , un poco de sal o sal de ajo, condimento complete al gusto , cajun (opcional) revolver y colocar en airfyer o al horno por 15 mins aprox , 100 gr de carne de su preferencia (a su gusto). con 50 gr de aguacate"
+    },
+    "Jueves": {
+      "PRE DESAYUNO": "1 vaso de agua (16 oz)\nCafe negro o te de su preferencia (opcional)",
+      "DESAYUNO": "Omelet (Huevo en torta) 3 claras de huevo 1 huevo entero (cocinar con 2 sprays de aceite de coco / oliva, 1 cda de aceite Oliva con un puñado de espinaca ,2 rebanas de pan integral tostadas con queso crema light. 1 cucharada",
+      "ALMUERZO": "100g de carne de preferencia, ½ taza de arroz precocido o blanco (Ya cocido), 1 taza de habichuelas salteadas (Saltear con 1 cda de aceita de oliva, 2 ajos triturados, pimienta negra, 1 cda de agua, perejil) puede incluir 1 taza de cualquier de estos: ( zanahoria y zuchini).",
+      "SNACK": "Pudding de Chia y fruta\nMezclar una cucharada sopera de semillas de chía (puede sustituir por granola) dentro de un 1/3 de taza de yogur natural o griego. Colocar en la nevera una o dos horas (o por la noche) y tendrás el pudding listo. Aderézalo a tu gusto añadiendo fruta encima. puede utilizar media taza de fresas rebanadas o 1/4 de de tazas de arándano.",
+      "CENA": "100g de pollo, ensalada tipo chimol (tomate picado, cilantro, cebolla, pepino, chine, aguacate) 1 paquete de salma."
+    },
+    "Viernes": {
+      "PRE DESAYUNO": "1 vaso de agua (16 oz)\nCafe negro o te de su preferencia (opcional)",
+      "DESAYUNO": "1 sandwich de pollo o pasta de pollo (Ver receta) puede agregar lechuga , tomate, cebolla y queso , usar pan integral .",
+      "ALMUERZO": "Bowl de Ensalada\nPechuga de pollo 130g cortado en cubos o desmechado , 1 tazas de espinaca, 1 taza de lechuga de su preferencia (Puede ser mixta ejemplo: spring mix), 1/2 aguacate, 1/2 taza de tomate , (opcional )1 oz de queso mozarella , (opcional)1/4 de taza de frijoles (de su preferencia) ,1 cucharada de aceite de oliva o vinagreta de su preferencia.",
+      "SNACK": "1/3 de Yogur natural sin azúcar en un bowl -o un yogur griego natural, y 1/4 de semillas, 1/4 de fresas o arándanos.",
+      "CENA": "Sandwich de Atún (Puede preparar una noche antes)\n 2 rodajas de pan Integral ; coloque la mezcla de atún en una rebanada de pan , luego cubra la mezcla de atún con lechuga, tomate, rodajas de huevo duro, puede rociar con 1 cucharadita de aceite de oliva. Envuelva en plástico; refrigere 2 horas o hasta toda la noche."
+    },
+    "Sábado": {
+      "PRE DESAYUNO": "1 vaso de agua (16 oz)\nCafe negro o te de su preferencia (opcional)",
+      "DESAYUNO": "Pancakes\n Colocar en licuadora o mezclar, 1/2 taza de avena, 1 / 3 de taza de yogur, 2 claras de huevo, 1 huevo entero, canela en polvo a su gusto, 1 chorrito de vainilla o miel (opcional) . Usar de crema de almendra u otra de preferencia de topping con fruta en rodajas.",
+      "ALMUERZO": "100gr de Pechuga de pollo o Res , guisada con muchas verduras. En el guiso puede acompañar con zanahoria, habichuelas y broccoli. 1/2 Taza ya cocida de arroz. o papa 1/2 taza.",
+      "SNACK": "Smoothie (½ taza de Hielo ,1 taza Leche de almendra (puede ser soya, coco, arroz), 1 taza Frutos rojos (fresas, zarzamora), 1 cda de mantequilla de almendra (opcional) .",
+      "CENA": "2 tazas de sring mix (mix de lechuga) , pasas (30gr) 1 /4 de taza de semillas mixtas ,con 150 gr de pollo en cubitos , queso mozarella , 2 cucharadas de vinagreta balsamica (Essential every day) opcional/ Mezclar en bowl."
+    },
+    "Domingo": {
+      "PRE DESAYUNO": "1 vaso de agua (16 oz)\nCafe negro o te de su preferencia (opcional)",
+      "DESAYUNO": "1 tortilla con quesillo a la plancha con chismol",
+      "ALMUERZO": "Comida Libre",
+      "SNACK": "1 Taza de frutas (de preferencia)",
+      "CENA": "Plato típico, 1/2 taza de frijoles cocidos, 2 oz de queso, 50 gr de aguacate, 1 platano (1) mediano en airfyer o en sarten con pam , puede agregar 100 gr de carne de su preferencia o huevo 3 (2 claras 1 huevo entero)"
+    }
+  }
